@@ -1,5 +1,5 @@
-# Demo_Multithreading
-Understand Multithreading and how to handle the shared resources
+# Demo_MultiThreading
+Understand MuliThreading and how to handle the shared resources
 
 #Program 1 (package com.thread)
 *  com.thread.SenderReceiver run this main program and observe console log for stock data. 
