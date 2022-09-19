@@ -8,7 +8,7 @@ Understand MuliThreading and how to handle the shared resources
 ####
 # Program 2 (package com.thread.resolve)
 * StockPriceSenderReceiverMain, This  program about to understand  the handling of shared resource (stockPrice) and use of multithreading.
-* if you observe the console log of this program, the stock price is sync between senders and receiver.
+* if you observe the console log of this program, the stock price is sync between sender(s) and receiver.
 
 ###
 # Program 3 (package com.thread.resolve2)
